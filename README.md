@@ -10,4 +10,4 @@ In this project, I employ Python, SQL, and Tableau to complete the following tas
 - Explore and analyze data with a few questions regarding sales
 - Visualize the finalized data onto a dashboard that provides shorthand answers to sales data keypoints.
 
-Follow along with the Jupyter notebook file (eBay Rolex Sales.ipynb) to see the process. 
+Follow along with the Jupyter notebook file (eBay Rolex Sales.ipynb) to see the process. See dashboard image (Rolex _Root Beer_ GMT-II Master (25).png) or Tableau file (eBay Rolex.twbx) for visualization.
